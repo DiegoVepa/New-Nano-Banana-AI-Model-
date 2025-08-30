@@ -1,0 +1,5 @@
+{
+  "name": "AI Product Ad Generator",
+  "description": "Upload a product photo and use AI to generate professional-looking advertisements in various settings like billboards, magazines, and social media posts.",
+  "requestFramePermissions": []
+}
